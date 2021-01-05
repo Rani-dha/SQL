@@ -5,3 +5,7 @@
 
 
 ## Course 2: Structured Query Language (SQL)
+
+### Assignments:
+
+*  [Week 2: Single Table SQL (Users)](https://github.com/Rani-dha/SQL/tree/master/Week%202%20Single%20table%20SQL%20(Users))
